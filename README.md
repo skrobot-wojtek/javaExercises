@@ -1,2 +1,2 @@
 # javaExercises
-javaExercises
+javaExercises - Calculato
