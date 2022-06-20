@@ -1,3 +1,2 @@
 # javaExercises
-javaExercises - Calculator
-Procedural Approach
+javaExercises - Calculator --> Procedural Approach
